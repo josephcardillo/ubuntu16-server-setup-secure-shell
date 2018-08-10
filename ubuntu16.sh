@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# Ubuntu 14.04 / 16.04 LTS
+# Ubuntu 16.04 LTS
 # This script will get you up and running with a secure Ubuntu 16 shell.
 
 apt-get update && apt-get upgrade
